@@ -10,3 +10,13 @@ La fórmula para calcular el volumen de una pirámide es muy simple:
 Volumen = Altura × Lado² dividido 3
 La formula para calcular la altura de una piramide es Altura = 1 x lado dividido raiz cuadrada
 Luego si reemplazamos la altura en la fórmula
+Calcular el volumen de un cubo
+Hallar la longitud de cualquier arista del cubo
+Eleva al cubo la longitud de la arista
+Expresar el resultado en unidades cubicas
+Calcular el volummen de una esfera
+Elevar el radio al cubo
+Multiplicar el resultado anterior por PI
+Al resultado anterior multiplicarlo por 4
+Todo lo anterior dividirlo entre 3
+Listo
