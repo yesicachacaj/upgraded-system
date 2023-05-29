@@ -10,4 +10,25 @@ Algoritmo mod1
 	
 FinAlgoritmo
 
+Registro de Datos
+Algoritmo registro
+	Imprimir '======= Registro del Usuario ======='
+	Imprimir 'primer nombre'
+	Leer yesica
+	Imprimir 'apellido'
+	Leer osorio
+	Imprimir 'año'
+	Leer veintiuno
+	Imprimir 'correo electronico'
+	Leer  yesichacaj6
+	Imprimir 'Direccion'
+	Leer colonia Manuel Colon Argueta 
+	Imprimir '======== datos ========'
+	Imprimir 'datos: '+ yesica+ ' ' + osorio
+	Imprimir 'Año: '+ veintiuno
+	Imprimir 'Gmail'+  Gmail
+	Imprimir 'Colonia: '+ colonia
+	Imprimir '==========================='
+	
+FinAlgoritmo
 
