@@ -3,7 +3,7 @@
 
 
 
-MOD
+**MOD
 Algoritmo mod1
 	leer m
 	Imprimir m % 2
